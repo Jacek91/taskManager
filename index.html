@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Task Manager App</title>
+  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+<body>
+  <div class="app-body">
+      <div class="app-header">
+          <div id="counter">Task to do: 0</div>
+        <input type="text" placeholder="Enter your task here..." id="task-text"/>
+        <div class="add-button-container"><button class="add-btn" id="add-btn" data-title="Dodaj!"><span class="fa fa-plus" aria-hidden="true"></span></button></div>
+      </div>
+      <div class="tasks">
+            <div id="welcome">
+            <h1>Welcome!</h1>
+            <p>
+              This simple app will help you with managing your daily task.</p>
+            </div>
+        <ul id="list">
+        </ul>
+      <h1 class="important-tasks" id="task">Important tasks <span class="fa fa-exclamation fa-small" aria-hidden="true"></h1>
+        <div id="counter_important">Important Task to do: 0</div>
+        <ul id="importantList">
+        </ul>
+      </div>
+  </div>
+</body>
+</html>
