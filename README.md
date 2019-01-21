@@ -1,10 +1,10 @@
 ## taskManager
 Simple application to managing your task.
 
-#Built with:
+# Built with:
 * HTML
 * CSS
 * JavaScript
 
-#Live demo:
+# Live demo:
 https://jacek91.github.io/modul01_warsztat/
