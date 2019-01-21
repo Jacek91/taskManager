@@ -7,4 +7,4 @@ Simple application to managing your task.
 * JavaScript
 
 # Live demo:
-https://jacek91.github.io/modul01_warsztat/
+https://jacek91.github.io/taskManager/
